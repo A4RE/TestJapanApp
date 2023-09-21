@@ -24,12 +24,12 @@ struct TabBarView: View {
                 .tabItem {
                     Image(systemName: "list.bullet")
                 }
-            Text("Cart")
+            OrderView()
                 .tabItem {
                     Image(systemName: "bag")
                         .background(Color.background)
                 }
-            Text("Info")
+            InfoView()
                 .tabItem {
                     Image(systemName: "info")
                         .background(Color.background)
