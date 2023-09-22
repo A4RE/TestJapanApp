@@ -3,21 +3,9 @@
 
 <h3 align="left">Макет из задания</h3>
 <img align="left" width="243" alt="image" src="https://github.com/A4RE/TestJapanApp/assets/64658088/0fd02271-78cb-45ea-af74-78a2c32e6a45">
+<h3 align="right">Макет, полученный при разработке с использованием SwiftUI</h3>
+<img align="right" width="366" alt="image" src="https://github.com/A4RE/TestJapanApp/assets/64658088/4044d1fb-02fc-49ef-93ea-b2252bc699b8">
 
-<div class="split left">
-  <div class="centered">
-    <h2> Макет из задания </h2>
-    <img width="243" alt="image" src="https://github.com/A4RE/TestJapanApp/assets/64658088/0fd02271-78cb-45ea-af74-78a2c32e6a45">
-  </div>
-</div>
-
-<div class="split right">
-  <div class="centered">
-    <h2>Полученный макет</h2>
-    <img width="366" alt="image" src="https://github.com/A4RE/TestJapanApp/assets/64658088/4044d1fb-02fc-49ef-93ea-b2252bc699b8">
-    <h3> Получен при помощи фреймворка  SwiftUI
-  </div>
-</div>
 <p>Разработать получение списка меню основываясь на вышеприведенном скриншоте. Элементы на экранах, их расположение должны быть максимально идентичны скриншоту, а также динамически изменять свои размеры и положение основываясь на размере экрана устройства (AutoLayout).
 Список категорий — UICollectionView (Горизонтальный скролл)
 Список блюд в категории — UICollectionView (Вертикальный скролл), по две ячейки.
