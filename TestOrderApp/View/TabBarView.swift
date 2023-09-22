@@ -27,12 +27,10 @@ struct TabBarView: View {
             OrderView()
                 .tabItem {
                     Image(systemName: "bag")
-                        .background(Color.background)
                 }
             InfoView()
                 .tabItem {
                     Image(systemName: "info")
-                        .background(Color.background)
                 }
         }
         .accentColor(.yellow)

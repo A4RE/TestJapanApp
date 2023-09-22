@@ -8,8 +8,8 @@
 import SwiftUI
 
 extension Color {
-    static let backgroundColor = Color("BackgroundColor")
-    static let grayColor = Color("grayColor")
-    static let secondaryColor = Color("secondaryColor")
-    static let blueColor = Color("blueColor")
+    static let myBackgroundColor = Color("BackgroundColor")
+    static let myGrayColor = Color("grayColor")
+    static let mySecondaryColor = Color("secondaryColor")
+    static let myBlueColor = Color("blueColor")
 }

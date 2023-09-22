@@ -7,23 +7,14 @@
 
 import Foundation
 
-struct Category: Hashable {
-    let status: Bool
-    let menuList: Menu
-}
-
-struct Menu: Hashable {
+struct MenuItem: Codable {
     let menuID: String
     let image: String
     let name: String
-    let subMenuCount: String
+    let subMenuCount: Int
 }
 
-struct MockData {
-    
-    static let simpleCategoryItem = Category(status: true,
-                                             menuList: Menu(menuID: "1", image: "example", name: "Сэты", subMenuCount: "5"))
-    
-    static let categories = [simpleCategoryItem, simpleCategoryItem, simpleCategoryItem]
-    
+struct ResponseData: Codable {
+    let status: Bool
+    let menuList: [MenuItem]
 }
