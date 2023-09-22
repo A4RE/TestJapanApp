@@ -54,7 +54,7 @@ POST. Body Form-Data: https://vkus-sovet.ru/api/getSubMenu.php
 "id": String, "image": String, "name": String, "content": String, "price": String, "weight": String, "spicy": String
 } ]
 }
-* Поле spicy — если блюдо острое возвращается "Y", если нет, то null. Нужно для отображения иконки красного перца справа от стоимости.</p>
+Поле spicy — если блюдо острое возвращается "Y", если нет, то null. Нужно для отображения иконки красного перца справа от стоимости.</p>
     </div>
 </body>
 </html>
