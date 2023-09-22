@@ -1,13 +1,10 @@
 # TestJapanApp
 <div style="width: 100%; height: 50%;">
-    <div align="left" style="width: 50%; height: 100%">
-        <h3>Макет из задания</h3>
-        <img width="366" alt="image" src="https://github.com/A4RE/TestJapanApp/assets/64658088/0fd02271-78cb-45ea-af74-78a2c32e6a45">
-    </div>
-    <div align="right" style="width: 50%; height: 100%">
-        <h3>Макет, полученный при разработке с использованием SwiftUI</h3>
-        <img width="366" alt="image" src="https://github.com/A4RE/TestJapanApp/assets/64658088/4044d1fb-02fc-49ef-93ea-b2252bc699b8">
-    </div>
+    <h3 align="left">Макет из задания</h3>
+    <img align="left" width="366" alt="image" src="https://github.com/A4RE/TestJapanApp/assets/64658088/0fd02271-78cb-45ea-af74-78a2c32e6a45">
+    <h3 align="right">Макет, полученный при разработке с использованием SwiftUI</h3>
+    <img align="right" width="366" alt="image" src="https://github.com/A4RE/TestJapanApp/assets/64658088/4044d1fb-02fc-49ef-93ea-b2252bc699b8">
+    
 </div>
 <div style="width: 100%; height: 50%">
     <p>Разработать получение списка меню основываясь на вышеприведенном скриншоте. Элементы на экранах, их расположение должны быть максимально идентичны скриншоту, а также динамически изменять свои размеры и положение основываясь на размере экрана устройства (AutoLayout).
