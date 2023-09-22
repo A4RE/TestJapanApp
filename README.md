@@ -1,9 +1,9 @@
 # TestJapanApp
 <div style="width: 100%; height: 50%;">
     <h3 align="left">Макет из задания</h3>
-    <img align="left" width="244" alt="image" src="https://github.com/A4RE/TestJapanApp/assets/64658088/0fd02271-78cb-45ea-af74-78a2c32e6a45">
+    <img align="left" width="300" alt="image" src="https://github.com/A4RE/TestJapanApp/assets/64658088/0fd02271-78cb-45ea-af74-78a2c32e6a45">
     <h3 align="right">Макет, полученный при разработке с использованием SwiftUI</h3>
-    <img align="right" width="366" alt="image" src="https://github.com/A4RE/TestJapanApp/assets/64658088/4044d1fb-02fc-49ef-93ea-b2252bc699b8">
+    <img align="right" width="300" alt="image" src="https://github.com/A4RE/TestJapanApp/assets/64658088/4044d1fb-02fc-49ef-93ea-b2252bc699b8">
     
 </div>
 <div style="width: 100%; height: 50%">
