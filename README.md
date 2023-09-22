@@ -1,5 +1,9 @@
 # TestJapanApp
 Тестовое задание
+
+<h3 align="left">Макет из задания</h3>
+<img align="left" width="243" alt="image" src="https://github.com/A4RE/TestJapanApp/assets/64658088/0fd02271-78cb-45ea-af74-78a2c32e6a45">
+
 <div class="split left">
   <div class="centered">
     <h2> Макет из задания </h2>
