@@ -8,7 +8,6 @@
             height: 50%;
             display: flex;
         }
-
         .left-half, .right-half {
             flex: 1;
             background-color: #e0e0e0;
