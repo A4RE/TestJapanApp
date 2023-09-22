@@ -1,13 +1,33 @@
 # TestJapanApp
-Тестовое задание
-<div>
-  <h3 align="left">Макет из задания</h3>
-  <img align="left" width="366" alt="image" src="https://github.com/A4RE/TestJapanApp/assets/64658088/0fd02271-78cb-45ea-af74-78a2c32e6a45">
-  <h3 align="right">Макет, полученный при разработке с использованием SwiftUI</h3>
-  <img align="right" width="366" alt="image" src="https://github.com/A4RE/TestJapanApp/assets/64658088/4044d1fb-02fc-49ef-93ea-b2252bc699b8">
-</div>
-<div>
-  <p>Разработать получение списка меню основываясь на вышеприведенном скриншоте. Элементы на экранах, их расположение должны быть максимально идентичны скриншоту, а также динамически изменять свои размеры и положение основываясь на размере экрана устройства (AutoLayout).
+<!DOCTYPE html>
+<html>
+<head>
+    <title></title>
+    <style>
+        .container {
+            width: 100%;
+            height: 50%;
+            display: flex;
+        }
+        .left-half, .right-half {
+            flex: 1;
+            background-color: #e0e0e0;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <div class="left-half">
+            <h3>Макет из задания</h3>
+            <img width="366" alt="image" src="https://github.com/A4RE/TestJapanApp/assets/64658088/0fd02271-78cb-45ea-af74-78a2c32e6a45">
+        </div>
+        <div class="right-half">
+            <h3>Макет, полученный при разработке с использованием SwiftUI</h3>
+            <imgwidth="366" alt="image" src="https://github.com/A4RE/TestJapanApp/assets/64658088/4044d1fb-02fc-49ef-93ea-b2252bc699b8">
+        </div>
+    </div>
+    <div>
+       <p>Разработать получение списка меню основываясь на вышеприведенном скриншоте. Элементы на экранах, их расположение должны быть максимально идентичны скриншоту, а также динамически изменять свои размеры и положение основываясь на размере экрана устройства (AutoLayout).
 Список категорий — UICollectionView (Горизонтальный скролл)
 Список блюд в категории — UICollectionView (Вертикальный скролл), по две ячейки.
 Логотип можно использовать свой.
@@ -34,6 +54,8 @@ POST. Body Form-Data: https://vkus-sovet.ru/api/getSubMenu.php
 "id": String, "image": String, "name": String, "content": String, "price": String, "weight": String, "spicy": String
 } ]
 }
-* Поле spicy — если блюдо острое возвращается "Y", если нет, то null. Нужно для отображения иконки красного перца справа от стоимости.
-</p>
-</div>
+* Поле spicy — если блюдо острое возвращается "Y", если нет, то null. Нужно для отображения иконки красного перца справа от стоимости.</p>
+    </div>
+</body>
+</html>
+
