@@ -1,18 +1,6 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title>Мой Readme</title>
-    <style>
-        .container {
-            width: 100%;
-            height: 50%;
-            display: flex;
-        }
-        .left-half, .right-half {
-            flex: 1;
-            background-color: #e0e0e0;
-        }
-    </style>
 </head>
 <body>
     <div class="container">
